@@ -1,0 +1,2 @@
+#Fråga: Vad är ett Git-commit och varför är det viktigt?
+Svar- Git commit är viktigt då flera kan jobba på en o samma projekt utan att störa main, flera kan jobba på en kod och säkerställa att den faktiskt funkar, sen kan man committa changes till main
