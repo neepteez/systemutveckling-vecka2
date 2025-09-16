@@ -1,0 +1,3 @@
+#Fråga Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
+Svar- Pull requests är helt enkelt en merge funktion från en annan branch, detta gör att man kan säkertställa att koden funkar, branches är helt enkelt utanför main, där du kan göra ändringar utan att störa main och förstöra hela projektet
+Och merge är bara en annan branch som du ska merga ihop med main, detta gör man när man säkerställt att allting funkar och det faktiskt förbättrar main, typ updates m.m
